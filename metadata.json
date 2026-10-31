@@ -1,0 +1,7 @@
+{
+  "name": "GrammarMaster - 英语语法填空互动教学平台",
+  "description": "专为小学生与课堂设计的英语复合句语法填空互动练习与教学系统，包含即时正误判断、详尽语法解析、课堂投影模式与教师题库管理。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
